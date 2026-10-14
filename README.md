@@ -26,7 +26,9 @@
 ### 🏆 Мої ключові проєкти:
 
 ** 🛒 **[Аналіз воронки конверсій інтернет-магазину](https://github.com/yuliyasmirnaya2017K/ecommerce-ga4-funnel-analysis)** — екстракція та очищення комерційних логів GA4 в BigQuery за допомогою SQL, побудова дашборду в Tableau.
+
 ** 📊 **[Аналіз продажів та прибутку в Power BI](https://github.com/yuliyasmirnaya2017K/sales-and-profit-powerbi-analysis)** — створення інтерактивного бізнес-дашборду для відстеження ключових метрик ефективності.
+
 **📉 **[Когортний аналіз та утримання користувачів](https://github.com/yuliyasmirnaya2017K/sql-cohort-retention-analysis)** — розрахунок Retention Rate за допомогою SQL-запитів для аналізу поведінки клієнтів.
 
 
