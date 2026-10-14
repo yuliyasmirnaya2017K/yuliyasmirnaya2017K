@@ -31,6 +31,8 @@
 
 **📉 **[Когортний аналіз та утримання користувачів](https://github.com/yuliyasmirnaya2017K/sql-cohort-retention-analysis)** — розрахунок Retention Rate за допомогою SQL-запитів для аналізу поведінки клієнтів.
 
+* 🐍 **[Аналітика на Python](https://github.com/yuliyasmirnaya2017K/python-developers-analysis))** — практичні кейси з очищення, трансформації та статистичного аналізу даних.
+
 
 ---
 
